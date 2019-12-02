@@ -1,0 +1,3 @@
+/root/CLionProjects/trythread/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/root/CLionProjects/trythread/cmake-build-debug/CMakeFiles/trythread.dir
+/root/CLionProjects/trythread/cmake-build-debug/CMakeFiles/edit_cache.dir
